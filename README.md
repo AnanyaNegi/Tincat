@@ -1,2 +1,1 @@
-# Tincat
-a commercial website
+TinDog Starting Files
