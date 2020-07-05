@@ -1,18 +1,15 @@
-#TITLE--Tincat
+# TITLE--Tincat
 
-##OVERVIEW--
-
+## OVERVIEW--
 This is a Frontend single page website made with css and bootstrap.It is a commercial website which deals with finding the partner for your cats.This is just an ideated website and does not exist as of yet.
 
-##FEATURES--
-
+## FEATURES--
 Made with Bootstrap(*frontend opensource toolkit*).The site is mobile optimised and responsive.
 
-##LINK--
-
+## LINK--
 The website can be found at the following link--https://ananyanegi.github.io/Tincat/
+
 (*Deployed via github pages*)
 
-##TEST--
-
+## TEST--
 To run the website on your pc,clone the code on your device and open with an ide (Eg.VScode,atom,etc.)
